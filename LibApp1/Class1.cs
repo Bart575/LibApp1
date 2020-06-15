@@ -8,5 +8,6 @@ namespace LibApp1
 {
     public class Class1
     {
+        //test
     }
 }
